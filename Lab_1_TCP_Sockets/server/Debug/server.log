@@ -1,0 +1,6 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  server.cpp
+C:\Users\admin\Downloads\Lab_1_TCP_Sockets\Lab_1_TCP_Sockets\server\server.cpp(63,31): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\admin\Downloads\Lab_1_TCP_Sockets\Lab_1_TCP_Sockets\server\server.cpp(74,57): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\admin\Downloads\Lab_1_TCP_Sockets\Lab_1_TCP_Sockets\server\server.cpp(104,65): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  server.vcxproj -> C:\Users\admin\Downloads\Lab_1_TCP_Sockets\Lab_1_TCP_Sockets\server\Debug\server.exe
